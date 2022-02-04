@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="https://moon9342.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://moon9342.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-02-04T17:42:10+09:00</updated>
-  <id>https://moon9342.github.io/tag/jekyll/feed.xml</id>
+  <link href="https://jdk941214.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://jdk941214.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-02-04T17:58:34+09:00</updated>
+  <id>https://jdk941214.github.io/tag/jekyll/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Jekyll 강좌(1) - Jekyll 기본</title>
-      <link href="https://moon9342.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - Jekyll 기본" />
+      <link href="https://jdk941214.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - Jekyll 기본" />
       <published>2022-02-03T01:40:00+09:00</published>
       <updated>2022-02-03T01:40:00+09:00</updated>
-      <id>https://moon9342.github.io/jekyll-basic</id>
-      <content type="html" xml:base="https://moon9342.github.io/jekyll-basic"></content>
+      <id>https://jdk941214.github.io/jekyll-basic</id>
+      <content type="html" xml:base="https://jdk941214.github.io/jekyll-basic"></content>
 
       
       
